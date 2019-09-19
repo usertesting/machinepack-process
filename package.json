@@ -17,7 +17,7 @@
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
     "machine": "^15.0.0-23",
-    "opn": "5.3.0"
+    "open": "^6.4.0"
   },
   "devDependencies": {
     "async": "2.0.1",
